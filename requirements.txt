@@ -2,3 +2,7 @@ numpy==1.18.1
 argparse==1.4.0
 pyyaml==6.0.0
 git+https:///github.com/njustesen/botbowl@main
+ray[tune]==1.12
+ray[rllib]==1.12
+ray[serve]==1.12
+torch==1.7.1

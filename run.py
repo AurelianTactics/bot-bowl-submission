@@ -1,6 +1,7 @@
 import botbowl
 import mybot
 import argparse
+import yaybot_submission
 
 parser = argparse.ArgumentParser(formatter_class=argparse.ArgumentDefaultsHelpFormatter)
 parser.add_argument('--agent', help='FFAI registered name of agent', required=True)
